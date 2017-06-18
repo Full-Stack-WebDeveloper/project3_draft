@@ -22,6 +22,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "script": "webpack -w"
+    "script": "webpack -w", 
+	"start": "react-scripts start"
   }
 }
